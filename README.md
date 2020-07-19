@@ -5,9 +5,10 @@ before cloning
 run commands
 
 pip install virtualenv
-python3 -m venv venv
-source venv/bin/activate
 
+python3 -m venv venv
+
+source venv/bin/activate
 these commands to activate virtual env
 
 
